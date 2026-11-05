@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-clip-launcher-flutter",
+  "capabilityKey": "liberusoftware/music-clip-launcher",
+  "presentation": "mobile-flutter",
+  "package": "module_music_clip_launcher_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/music/nextjs/clip-launcher.md",
+  "presentationPlan": "projects/music/flutter/clip-launcher.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
